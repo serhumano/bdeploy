@@ -1,0 +1,8 @@
+20140918-044424
+2014/09/18 04:44:24 [6202] receiving file list
+2014/09/18 04:44:24 [6202] .d..t.... ./
+2014/09/18 04:44:24 [6202] >f+++++++ dos.txt
+2014/09/18 04:44:24 [6202] >f+++++++ tres.txt
+2014/09/18 04:44:24 [6202] >f+++++++ uno copia.txt
+2014/09/18 04:44:24 [6202] >f+++++++ uno.txt
+2014/09/18 04:44:24 [6202] rsync error: some files could not be transferred (code 23) at /SourceCache/rsync/rsync-42/rsync/main.c(887) [generator=2.6.9]
